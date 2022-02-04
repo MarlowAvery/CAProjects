@@ -1,16 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
-
 namespace CAProj1
 {
 
     class Dissembler
     {
-        public void InitializeDictionary()
-        {
-            Dictionary<byte, string> _instructions = new Dictionary<byte, string>
+        Dictionary<byte, string> _instructions = new Dictionary<byte, string>
             {
                 { 0xC0, "LWD" },
                 { 0x24, "CALL" },
@@ -20,7 +16,17 @@ namespace CAProj1
                 { 0x49, "STRO" },
                 { 0x00, "STOP" }
             };
+        public string MatchKey(byte key)
+        {
+            string value = "";
+            if(_instructions.ContainsKey(key))
+            {
+                _instructions.TryGetValue(key, out value);
+            }
+            return value;
+           
         }
+
     
       
 

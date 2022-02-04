@@ -4,10 +4,11 @@ C:\Users\Avery\source\repos\CAProj1\bin\Debug\netcoreapp3.1\CAProj1.runtimeconfi
 C:\Users\Avery\source\repos\CAProj1\bin\Debug\netcoreapp3.1\CAProj1.runtimeconfig.dev.json
 C:\Users\Avery\source\repos\CAProj1\bin\Debug\netcoreapp3.1\CAProj1.dll
 C:\Users\Avery\source\repos\CAProj1\bin\Debug\netcoreapp3.1\CAProj1.pdb
-C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.csprojAssemblyReference.cache
 C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.AssemblyInfoInputs.cache
 C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.AssemblyInfo.cs
 C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.csproj.CoreCompileInputs.cache
 C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.dll
 C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.pdb
 C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.genruntimeconfig.cache
+C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.csproj.AssemblyReference.cache
+C:\Users\Avery\source\repos\CAProj1\obj\Debug\netcoreapp3.1\CAProj1.GeneratedMSBuildEditorConfig.editorconfig

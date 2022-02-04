@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Y+1lufZuNKB3B40JfZcA0sWrMpGhCGdViN0vNxfCHvza5vp6eoJ4QKb1Up/yZxor3wOvJORk2xxB1B1a6F0Eg==",
+  "dgSpecHash": "hnsC9PraxQVuff185XxhwXyR4U2Af/GjOBpY/eOJEyIQjDLxWHiJl9LDc3l/qRpN9KKBWUP7bTEyWTdFKXhVRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Avery\\source\\repos\\CAProj1\\CAProj1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Avery\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Avery\\Documents\\GitHub\\CAProjects\\Project1\\CAProj1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
