@@ -11,6 +11,8 @@ namespace CAProj1
         {
             List<Instruction> commands = new List<Instruction>(); 
             Instruction myCommand;
+            byte pCount = 0000;
+            String header = "COUNT\tSPEC\tINST\tOP";
             string instructions = System.IO.File.ReadAllText(@"hex.txt");
             String[] array = instructions.Split((string[])null, StringSplitOptions.RemoveEmptyEntries);
             List<Byte> vals = array.Select(arg => Byte.Parse(arg.ToString(), System.Globalization.NumberStyles.HexNumber)).ToList();
@@ -25,10 +27,14 @@ namespace CAProj1
                 myCommand = new Instruction(vals[i], vals[i + 1], vals[i + 2]);
                 commands.Add(myCommand);
                 
+                
             }
+            Console.WriteLine(header);
             for(int i = 0; i< commands.Count;i++)
             {
-                Console.WriteLine(commands[i].Verbose());
+
+                Console.WriteLine(String.Format("{0:X}",pCount)+"\t"+commands[i].Verbose());
+                pCount += 3;
             }
             Console.WriteLine(instructions);
         }
