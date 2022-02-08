@@ -1,0 +1,10 @@
+C:\Users\Avery\source\repos\CAProj1GUI\bin\Debug\CAProj1GUI.exe.config
+C:\Users\Avery\source\repos\CAProj1GUI\bin\Debug\CAProj1GUI.exe
+C:\Users\Avery\source\repos\CAProj1GUI\bin\Debug\CAProj1GUI.pdb
+C:\Users\Avery\source\repos\CAProj1GUI\obj\Debug\CAProj1GUI.csproj.AssemblyReference.cache
+C:\Users\Avery\source\repos\CAProj1GUI\obj\Debug\CAProj1GUI.Form1.resources
+C:\Users\Avery\source\repos\CAProj1GUI\obj\Debug\CAProj1GUI.Properties.Resources.resources
+C:\Users\Avery\source\repos\CAProj1GUI\obj\Debug\CAProj1GUI.csproj.GenerateResource.cache
+C:\Users\Avery\source\repos\CAProj1GUI\obj\Debug\CAProj1GUI.csproj.CoreCompileInputs.cache
+C:\Users\Avery\source\repos\CAProj1GUI\obj\Debug\CAProj1GUI.exe
+C:\Users\Avery\source\repos\CAProj1GUI\obj\Debug\CAProj1GUI.pdb
